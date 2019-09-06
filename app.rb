@@ -17,6 +17,7 @@ end
 
 post '/visit' do
 
+
 	@username  = params[:username]
 	@phone     = params[:phone]
 	@datetime  = params[:datetime]
@@ -29,6 +30,14 @@ post '/visit' do
 	f.close
 
 	erb :message
+
+end
+
+get '/contacts' do
+	erb :contacts
+end
+
+post '/contacts' do
 
 	@email             = params[:email]
 	@emailmessage      = params[:emailmessage]
@@ -43,9 +52,4 @@ post '/visit' do
 
 	erb :contacts_post
 
-
-end
-
-get '/contacts' do
-	erb :contacts
 end

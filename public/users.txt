@@ -1,10 +1,2 @@
-
-User: , Phone: , Date and time: 
 User: IvanMorozov, Phone: +7121234235, Date and time: 05/09/19
-User: Alex, Phone: +790878906548, Date and time: 08/09/19
-User: , Phone: , Date and time: 
-User: , Phone: , Date and time: 
-User: IvanMorozov, Phone: +7121234235, Date and time: 05/09/19
-User: IvanMorozov, Phone: +7121234235, Date and time: 05/09/19
-User: IvanMorozov, Phone: +7121234235, Date and time: 05/09/19
-User: IvanMorozov, Phone: +7121234235, Date and time: 05/09/19
+User: Alex, Phone: +790878906548, Date and time: 05/09/19
